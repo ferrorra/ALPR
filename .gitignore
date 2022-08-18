@@ -16,6 +16,8 @@ SRGAN/original_images_srgan/
 SRGAN/detected/
 SRGAN/imgs/
 SRGAN/train_images/
+SRGAN/original_images/
+
 
 ObjectDetection/weights/yolov4-obj_best.weights
 weights/
