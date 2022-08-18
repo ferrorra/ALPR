@@ -3,6 +3,7 @@ ObjectDetection/checkpoints/
 ObjectDetection/data/
 ObjectDetection/weights/
 data/
+model_data/
 
 
 
